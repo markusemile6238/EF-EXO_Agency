@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -13,6 +14,7 @@ namespace Domaine.Model
         public string Description { get; set; } = string.Empty;
         public decimal Price { get; set; }
 
-        public Destination? Destination { get; set; };
+        public Destination Destination { get; set; }
+        public ICollection<Booking> Bookings { get; set; } = new List<Booking>();
     }
 }

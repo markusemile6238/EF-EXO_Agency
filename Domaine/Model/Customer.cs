@@ -11,8 +11,8 @@ namespace Domaine.Model
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
 
-        public ICollection<Booking>? Bokkings { get; set; }
-        public ICollection<Activity>? Activities { get; set; }
+        public ICollection<Booking> Bookings { get; set; } = new List<Booking>();
+
 
         
 

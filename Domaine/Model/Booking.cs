@@ -9,9 +9,10 @@ namespace Domaine.Model
     public class Booking
     {
         public int Id { get; set; }
-        public string ClientName { get; set; } = string.Empty;
-        public DateTime bookingAt { get; set; }
+        public DateTime BookingDate { get; set; }
+        public int CustomerId { get; set; }
 
-        public Activity? Activity;
+        public Customer Customer { get; set; }
+        public ICollection<Activity> Activities { get; set; } = new List<Activity>();
     }
 }
