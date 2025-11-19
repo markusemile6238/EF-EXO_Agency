@@ -32,14 +32,18 @@ namespace DAL
             modelBuilder.ApplyConfiguration(new ActivityConfig());
             modelBuilder.ApplyConfiguration(new ActivitySeed());
 
+            modelBuilder.ApplyConfiguration(new BookingConfig());
+            modelBuilder.ApplyConfiguration(new BookingSeed());
+
+
             modelBuilder.Entity("ActivityBooked")
                 .HasData(
-                    new { BookingId = 1, ActivityId = 1 },
-                    new { BookingId = 1, ActivityId = 2 },
-                    new { BookingId = 2, ActivityId = 3 }
+                    new { BookId = 1, ActivityId = 1 },
+                    new { BookId = 1, ActivityId = 2 },
+                    new { BookId = 2, ActivityId = 3 }
                  );
         }
-            
+
     };
         
 }

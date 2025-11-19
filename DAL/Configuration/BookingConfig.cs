@@ -40,9 +40,9 @@ namespace DAL.Configuration
                              .HasPrincipalKey(nameof(Activity.Id)),
                      right => right.HasOne(typeof(Booking))
                              .WithMany()
-                             .HasForeignKey("BookingId")
+                             .HasForeignKey("BookId")
                              .HasPrincipalKey(nameof(Booking.Id)), 
-                     join => join.HasKey("BookingId","ActivityId"));
+                     join => join.HasKey("BookId","ActivityId"));
 
           
            
