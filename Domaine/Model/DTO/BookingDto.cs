@@ -4,15 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domaine.Model
+namespace Domaine.Model.DTO
 {
-    public class Booking
+    public class BookingDto
     {
-        public int Id { get; set; }
         public DateTime BookingDate { get; set; }
         public int CustomerId { get; set; }
-        public ICollection<Activity> Activities { get; set; } = new List<Activity>();
+        public List<Activity> Activities { get; set; }
 
-        public Customer Customer { get; set; }
+        public BookingDto()
+        {
+
+            Activities = new List<Activity>();
+        }
     }
+
 }

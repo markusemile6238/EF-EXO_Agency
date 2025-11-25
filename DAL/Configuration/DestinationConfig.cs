@@ -17,7 +17,7 @@ namespace DAL.Configuration
 
             // constrains
             builder.HasKey(d => d.Id).HasName("PK_Destination");
-            builder.HasIndex(d => d.Country).IsUnique();
+            builder.HasIndex(d => new { d.Country, d.City }).IsUnique().HasDatabaseName("IX_Destination_Country_City");
 
             
            

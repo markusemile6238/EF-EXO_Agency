@@ -9,13 +9,16 @@ namespace Domaine.Model
     public class Customer
     {
         public int Id { get; set; }
-        public string Name { get; set; } = string.Empty;
+        public string Name { get; set; }
 
         public ICollection<Booking> Bookings { get; set; } = new List<Booking>();
 
+        public Customer() { }
 
-        
-
-
+        public Customer( string name)
+        {
+            
+            this.Name = name;
+        }
     }
 }

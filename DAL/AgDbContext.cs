@@ -2,24 +2,23 @@
 using DAL.Seeds;
 using Domaine.Model;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DAL
 {
-    internal class AgDbContext : DbContext
+    public class AgDbContext : DbContext
     {
+        public AgDbContext(DbContextOptions<AgDbContext> options) :base(options) { }
+       
+
         public DbSet<Destination> Destinations {  get; set; }
         public DbSet<Customer> Customers {  get; set; }
         public DbSet<Activity> Activities {  get; set; }
+        public DbSet<Booking> Bookings { get; set; }
         
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+       /*protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer("Server= GOS-VDI509\\TFTIC; Initial Catalog=ExoAgency; Integrated Security = True; Encrypt = True; Trust Server Certificate = True");
-        }
+        }*/
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
