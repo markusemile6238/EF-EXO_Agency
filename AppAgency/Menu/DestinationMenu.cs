@@ -1,12 +1,10 @@
-﻿using DAL.Repositories;
+﻿using AppAgency.Helper;
 using Domaine.Model;
 using Domaine.Services;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using Microsoft.IdentityModel.Tokens;
 
 public class DestinationMenu
 {
-  
+
     private readonly DestinationService _destinationService;
 
     public DestinationMenu(DestinationService destinationService)
@@ -14,76 +12,163 @@ public class DestinationMenu
         _destinationService = destinationService;
     }
 
+    #region Afficher les destination
     public async Task ShowAll()
     {
-        var list = await _destinationService.GetAlldestinationAsync(); 
-        if(list.Any() && list is List<Destination> destinationList)
+        Console.Clear();
+        var destinations = await _destinationService.GetAlldestinationAsync();
+
+
+        if (destinations.Any() == true)
         {
-            
-            var sortedList = list.OrderBy(d=>d.Country).ThenBy(d=>d.City).ToList();
-            Console.WriteLine("Voici les destination");
-            foreach (var item in sortedList)
-            {
-                Console.WriteLine($"[ID:{item.Id,2}] :   {item.Country,10}   : {item.City} ");
-            }
+            var sortedDestination = destinations
+                .OrderBy(x => x.Country)
+                .ThenBy(x => x.City)
+                .ToList();
+
+            DesignHelper.ApplyStyle(StyleText.TITLE, "\nVoici la liste des destination");
+            // affichage des destination
+            DesignHelper.ShowList(destinations, ["Id", "Country", "City"], StyleDisplayData.TABLE);
+            DesignHelper.ApplyStyle(StyleText.CONFIRMATION, "Appuyer sur une touche pour retour menu");
+            if (NavigationHelper.ShouldContinue()) return;
+
+
+
+
         }
-            Console.WriteLine("\n\n[ENTER] to continue");
-            Console.ReadLine();
+
+
+
     }
+    #endregion
 
-   
-
-
-
-    public async Task AddDestination() { 
-    
-           Destination newDestination = new Destination(){Country="",City="",Description=""};
-
-            Console.WriteLine("Veuillez Entrer une Nouvelle Destination");
+    #region Ajouter une destination
+    public async Task AddDestination()
+    {
         do
         {
-            Console.WriteLine("Le Pays");
-            newDestination.Country = Console.ReadLine();
+            Console.Clear();
+            Destination newDestination = new Destination() { Country = "", City = "", Description = "" };
 
-        } while (string.IsNullOrEmpty(newDestination.Country));
-        do
-        {
-            Console.WriteLine("La Ville");
-            newDestination.City = Console.ReadLine();
+            DesignHelper.ApplyStyle(StyleText.TITLE, "\nCréation d'une nouvelle Destination");
 
-        } while (string.IsNullOrEmpty(newDestination.City));
-        do
-        {
-            Console.WriteLine("La Description");
-            newDestination.Description = Console.ReadLine();
+            #region ajouter un pays
+            do
+            {
+                DesignHelper.ApplyStyle(StyleText.INFO, "Saisir le pays : ");
+                string newCountry = Console.ReadLine();
+                if (!string.IsNullOrEmpty(newCountry) && newCountry.Length > 1)
+                {
+                    DesignHelper.ApplyStyle(StyleText.CONFIRMATION, "\nConfirmez le Pays [O]ui [N]on ");
+                    if (NavigationHelper.ShouldContinue())
+                    {
+                        newDestination.Country = newCountry;
+                        break;
+                    }
+                    else
+                    {
 
-        } while (string.IsNullOrEmpty(newDestination.Description));
+                        DesignHelper.ApplyStyle(StyleText.ERROR, "Tres bien recommencer");
+                        continue;
+                    }
+                }
+                else
+                {
+                    DesignHelper.ApplyStyle(StyleText.ERROR, "Veuillez saisir à nouveau destination");
+                    continue;
+                }
+            } while (true);
+            #endregion
 
-        Console.WriteLine("************************************************************");
-        Console.WriteLine("************************************************************");
-        Console.WriteLine("Voici la nouvelle destination qui sera sauver");
-        Console.WriteLine($"Le pays : {newDestination.Country}");
-        Console.WriteLine($"La ville : {newDestination.City}");
-        Console.WriteLine($"Et sa description : {newDestination.Description}");
-        Console.WriteLine("************************************************************");
-        Console.WriteLine("************************************************************");
-        Console.WriteLine("[Y] ou [N] pour sauver ou annuler");
-        var key = Console.ReadKey(true);
-        switch (key.Key)
-        {
-            case ConsoleKey.Y:
+            #region ajouter une ville
+            do
+            {
+
+                DesignHelper.ApplyStyle(StyleText.INFO, "Saisir la ville : ");
+                string? newCity = Console.ReadLine();
+                if (!string.IsNullOrEmpty(newCity) && newCity?.Length > 1)
+                {
+                    DesignHelper.ApplyStyle(StyleText.CONFIRMATION, "\nConfirmez la ville [O]ui [N]on ");
+                    if (NavigationHelper.ShouldContinue())
+                    {
+                        newDestination.City = newCity;
+                        break;
+                    }
+                    else
+                    {
+
+                        DesignHelper.ApplyStyle(StyleText.ERROR, "Tres bien recommencer");
+                        continue;
+                    }
+                }
+                else
+                {
+                    DesignHelper.ApplyStyle(StyleText.ERROR, "Veuillez saisir à nouveau la ville");
+                    continue;
+                }
+            } while (true);
+            #endregion
+
+            #region ajouter description
+            do
+            {
+
+                DesignHelper.ApplyStyle(StyleText.INFO, "Saisir la description: ");
+                string? newDesc = Console.ReadLine();
+                if (!string.IsNullOrEmpty(newDesc) && newDesc?.Length > 1)
+                {
+                    DesignHelper.ApplyStyle(StyleText.CONFIRMATION, "\nConfirmez la deszcription [O]ui [N]on ");
+                    if (NavigationHelper.ShouldContinue())
+                    {
+                        newDestination.Description = newDesc;
+                        break;
+                    }
+                    else
+                    {
+
+                        DesignHelper.ApplyStyle(StyleText.ERROR, "Tres bien recommencer");
+                        continue;
+                    }
+                }
+                else
+                {
+                    DesignHelper.ApplyStyle(StyleText.ERROR, "Veuillez saisir à nouveau la Description");
+                    continue;
+                }
+            } while (true);
+            #endregion
+
+
+            DesignHelper.ShowList(new List<Destination> { newDestination }, ["Id", "Country", "City", "Description"], StyleDisplayData.TABLE);
+            DesignHelper.ApplyStyle(StyleText.CONFIRMATION, "\nConfirmez la nouvelle destination [O]ui [N]on ");
+            if (NavigationHelper.ShouldContinue())
+            {
+                try
+                {
                     await _destinationService.AddAsync(newDestination);
-                break;
-            default:
-                return;
-        }
-        return;
+                    DesignHelper.ApplyStyle(StyleText.SUCCESS, "Destination sauvée avec succes");
+                    DesignHelper.ApplyStyle(StyleText.INFO, "\\ Souhaitez vous ajouter une nouvelle destination [O]ui [N]on ");
+                    if (NavigationHelper.ShouldContinue())
+                    {
+                        continue;
+                    }
+                    else
+                    {
+                        break;
+                    }
 
-      
-
-
-
-
-
+                }
+                catch (Exception ex)
+                {
+                    DesignHelper.ApplyStyle(StyleText.ERROR, $"Errro:{ex.Message}");
+                    continue;
+                }
+            }
+            else
+            {
+                continue;
+            }
+        } while (true);
+        #endregion
     }
 }

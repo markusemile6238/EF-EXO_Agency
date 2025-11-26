@@ -2,6 +2,7 @@
 using Domaine.Model;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Diagnostics;
 using System.Linq;
 using System.Text;
@@ -9,26 +10,29 @@ using System.Threading.Tasks;
 
 namespace Domaine.Builder
 {
-    public class BookingBuilder : ISetName, ISetReservationDate, ISetDestinationId, ISetActivity, IWithAnotherActivity, IBuildBooking
+    public class BookingBuilder : ISetCustomerId, ISetReservationDate, ISetDestinationId, ISetActivity, IWithAnotherActivity, IBuildBooking
     {
 
-        public int Id { get;  private set; }
+        public int CustomerId { get;  private set; }
         public DateTime BookingDate { get; private set; }
-        public int CustomerId { get; private set; }
-        public ICollection<Model.Activity> Activities { get; private set; }
+        public int DestinationId { get; private set; }
+        public ICollection<Model.Activity> Activities { get; private set; } 
 
         public int DestinationID {  get; private set; }
 
-        private BookingBuilder(){ }
+        private BookingBuilder(){
+            Activities = new List<Model.Activity>();
 
-        public static ISetName Creater()
+        }
+
+        public static ISetCustomerId Create()
         {
             return new BookingBuilder();
         }
 
-        public ISetReservationDate SetName(int id)
+        public ISetReservationDate SetCustomerId(int customerId)
         {
-            Id = id;
+            CustomerId = customerId;
             return this;
         }
 
@@ -52,12 +56,16 @@ namespace Domaine.Builder
 
         IWithAnotherActivity IWithAnotherActivity.SetActivity(Model.Activity activity) // implemntation de IWithAnotherActivity de setActivity
         {
-            if (activity != null) Activities.Add(activity);
-            return this;
+            return SetActivity(activity);
         }
 
-        IBuildBooking ISetActivity.Build()  // implemntation de IBuilderBokking de setActivity
+ 
+       IBuildBooking ISetActivity.Build()  // implemntation de IBuilderBokking de setActivity
         {
+            if(Activities != null)
+            {
+                Activities = Activities.ToList();
+            }
             return this;
         }
 
@@ -68,11 +76,16 @@ namespace Domaine.Builder
 
         public Booking  Build()
         {
+            if(CustomerId <= 0)
+                throw new InvalidOperationException("CustomerId must be set");
+
+            if (DestinationId <= 0)
+                throw new InvalidOperationException("DestinationId must be set");
+
             var booking = new Booking
-            {
-                Id = this.Id,
-                BookingDate = this.BookingDate,
+            {              
                 CustomerId = this.CustomerId,
+                BookingDate = this.BookingDate,
             };
 
             // Ajouter les activités
@@ -82,6 +95,16 @@ namespace Domaine.Builder
             }
 
             return booking;
+        }
+
+        public IBuildBooking SetActivities(ICollection<Model.Activity> activities)
+        {
+            if (activities != null)
+            {
+                foreach(var actvity in Activities.Where(a=> a != null))
+                    Activities = activities.ToList();
+            }
+           return this;
         }
     }
 }

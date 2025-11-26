@@ -20,14 +20,16 @@ namespace DAL.Configuration
   
             // constrains
             builder.HasKey(b => b.Id).HasName("PK_Customer");
+            builder.HasIndex(b => b.Name).IsUnique().HasDatabaseName("IX_Customer_Name");
 
             //relation
             // customer<>booking
-            builder.HasMany(b => b.Bookings)
+            builder.HasMany(c => c.Bookings)
                 .WithOne(b => b.Customer)
                 .HasForeignKey(b => b.CustomerId)
-                .IsRequired();
-      
+                .IsRequired()
+                .OnDelete(DeleteBehavior.Cascade);
+
 
 
 

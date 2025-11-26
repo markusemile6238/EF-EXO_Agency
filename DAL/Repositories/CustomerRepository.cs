@@ -1,5 +1,6 @@
 ﻿using Domaine.Interfaces;
 using Domaine.Model;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,10 +24,16 @@ namespace DAL.Repositories
             await _dbContext.AddAsync(entity);
             await _dbContext.SaveChangesAsync();
         }
+        public async Task<Customer> AddAsyncWithReturn(Customer entity)
+        {
+            await _dbContext.AddAsync(entity);
+            await _dbContext.SaveChangesAsync();
+            return entity;
+        }
 
         public async  Task<IEnumerable<Customer>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            return await _dbContext.Customers.ToListAsync();
         }
 
         public Task<Customer> GetByIdAsync(int key)

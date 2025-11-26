@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 class Program
 {
-    private static IServiceProvider _services;
+    private static  IServiceProvider _services = null!;
     private static bool runner = true;
     
     static async Task Main(string[] args)
@@ -34,10 +34,12 @@ class Program
         services.AddScoped<IDestinationRepository, DestinationRepository>();
         services.AddScoped<IActivityRepository, ActivityRepository>();
         services.AddScoped<ICustomerRepository, CustomerRepository>();
+        services.AddScoped<IBookingRepository, BookingRepository>();
         // Services
         services.AddScoped<DestinationService>();
         services.AddScoped<ActivityService>();
         services.AddScoped<CustomerService>();
+        services.AddScoped<BookingService>();
         services.AddScoped<DestinationMenu>();
         services.AddScoped<ActivityMenu>();
         services.AddScoped<BookingMenu>();

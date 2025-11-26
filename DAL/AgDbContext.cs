@@ -37,9 +37,9 @@ namespace DAL
 
             modelBuilder.Entity("ActivityBooked")
                 .HasData(
-                    new { BookId = 1, ActivityId = 1 },
-                    new { BookId = 1, ActivityId = 2 },
-                    new { BookId = 2, ActivityId = 3 }
+                    new { BookingId = 1, ActivityId = 1 },
+                    new { BookingId = 1, ActivityId = 2 },
+                    new { BookingId = 2, ActivityId = 3 }
                  );
         }
 

@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Domaine.Interfaces.IBooking
 {
-    public interface ISetName
+    public interface ISetCustomerId
     {
-        ISetReservationDate SetName(int Id);
+        ISetReservationDate SetCustomerId(int Id);
     }
 }

@@ -39,7 +39,7 @@ namespace AppAgency.Menu
 
         public async Task AddActivity()
         {
-            ActivityDto? dto = new ActivityDto(title:null,description:null,price:null,destinationId:null){};
+            ActivityDto? dto = new ActivityDto(){};
             var destinations = await _destinationService.GetAlldestinationAsync();
             if (destinations == null) 
             {

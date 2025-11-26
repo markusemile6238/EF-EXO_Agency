@@ -13,6 +13,6 @@ namespace Domaine.Model
         public int CustomerId { get; set; }
         public ICollection<Activity> Activities { get; set; } = new List<Activity>();
 
-        public Customer Customer { get; set; }
+        public Customer? Customer { get; set; }
     }
 }

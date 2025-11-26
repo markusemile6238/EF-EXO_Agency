@@ -14,9 +14,9 @@ namespace Domaine.Model.DTO
 
         public BookingDto()
         {
-
             Activities = new List<Activity>();
         }
+
     }
 
 }

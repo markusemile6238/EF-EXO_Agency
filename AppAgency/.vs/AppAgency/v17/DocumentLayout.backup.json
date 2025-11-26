@@ -3,102 +3,172 @@
   "WorkspaceRootPath": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\appagency\\menu\\destinationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|solutionrelative:menu\\destinationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\appagency\\helper\\designhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|solutionrelative:helper\\designhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\appagency\\menu\\bookingmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|solutionrelative:menu\\bookingmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\iactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\services\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\repositories\\activityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\appagency\\menu\\activitymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|solutionrelative:menu\\activitymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\appagency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\builder\\bookingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\repositories\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\configuration\\bookingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\services\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\ibooking\\isetcustomerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\migrations\\20251124121617_updatedestinationconfiguniqueindex.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\migrations\\20251119160500_bookings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\migrations\\20251125133008_changeforeignkeyofactivitybooked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\migrations\\20251119160500_bookings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\obj\\Debug\\net8.0\\DAL.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\configuration\\activityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\agdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\builder\\activitybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\iactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\iactivity\\iactivitybuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\iactivity\\iactivitydescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\iactivity\\iactivitydestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\iactivity\\iactivityprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\iactivity\\iactivitytitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\repositories\\activityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\dto\\activitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\migrations\\20251119131122_creationactivity_class_config_seed1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\migrations\\20251119133817_addrelationbtwactivityndestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\migrations\\20251124121617_updatedestinationconfiguniqueindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\migrations\\20251125122733_makecustomernameunique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\configuration\\customerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\services\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\configuration\\destinationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\ibooking\\isetactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\appagency\\helper\\navigationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|solutionrelative:helper\\navigationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\appagency\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\ibooking\\iwithanotheractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\dto\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\appagency\\menu\\destinationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CCDE518-0082-5820-EEB6-CED162D3D706}|AppAgency.csproj|solutionrelative:menu\\destinationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\services\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\configuration\\bookingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\builder\\activitybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\seeds\\customerseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\dto\\activitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEB3DC7C-5059-F4AD-2883-65AE6414B1AF}|..\\DAL\\DAL.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\dal\\agdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\model\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\builder\\bookingbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\ibooking\\ibuildbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\ibooking\\iwithanotheractivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86EA642-DBB7-7073-5D75-A34F71E02090}|..\\Domaine\\Domaine.csproj|c:\\users\\e.markus\\source\\repos\\ef\\ef-exo_agency\\domaine\\interfaces\\ibooking\\isetactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -108,8 +178,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DesignHelper.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Helper\\DesignHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\DesignHelper.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Helper\\DesignHelper.cs",
+              "RelativeToolTip": "Helper\\DesignHelper.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAIwGQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T03:54:16.965Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -120,65 +203,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DestinationDto.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\DestinationDto.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Model\\DTO\\DestinationDto.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\DestinationDto.cs",
-              "RelativeToolTip": "..\\Domaine\\Model\\DTO\\DestinationDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T01:38:38.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "..\\Domaine\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:58:33.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DestinationMenu.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Menu\\DestinationMenu.cs",
+              "RelativeDocumentMoniker": "Menu\\DestinationMenu.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Menu\\DestinationMenu.cs",
+              "RelativeToolTip": "Menu\\DestinationMenu.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAK0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:23:25.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:35:33.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Builder\\BookingBuilder.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Builder\\BookingBuilder.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Builder\\BookingBuilder.cs",
+              "RelativeToolTip": "..\\Domaine\\Builder\\BookingBuilder.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAGkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:33:31.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T21:09:53.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BookingMenu.cs",
               "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Menu\\BookingMenu.cs",
               "RelativeDocumentMoniker": "Menu\\BookingMenu.cs",
               "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Menu\\BookingMenu.cs",
               "RelativeToolTip": "Menu\\BookingMenu.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAAwMgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAN0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T15:12:45.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ActivityService.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Services\\ActivityService.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Services\\ActivityService.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Services\\ActivityService.cs",
-              "RelativeToolTip": "..\\Domaine\\Services\\ActivityService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBwAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:39:12.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Destination.cs",
               "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\Destination.cs",
               "RelativeDocumentMoniker": "..\\Domaine\\Model\\Destination.cs",
               "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\Destination.cs",
               "RelativeToolTip": "..\\Domaine\\Model\\Destination.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA4AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T21:08:38.065Z",
               "EditorCaption": ""
@@ -186,236 +282,221 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ActivityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Repositories\\ActivityRepository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\ActivityRepository.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Repositories\\ActivityRepository.cs",
-              "RelativeToolTip": "..\\DAL\\Repositories\\ActivityRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:39:18.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ActivityMenu.cs",
               "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Menu\\ActivityMenu.cs",
               "RelativeDocumentMoniker": "Menu\\ActivityMenu.cs",
               "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Menu\\ActivityMenu.cs",
               "RelativeToolTip": "Menu\\ActivityMenu.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T15:12:13.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IActivityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivityRepository.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IActivityRepository.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivityRepository.cs",
-              "RelativeToolTip": "..\\Domaine\\Interfaces\\IActivityRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:38:21.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "DestinationRepository.cs",
               "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Repositories\\DestinationRepository.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Repositories\\DestinationRepository.cs",
               "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Repositories\\DestinationRepository.cs",
               "RelativeToolTip": "..\\DAL\\Repositories\\DestinationRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T20:13:29.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NavigationHelper.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Helper\\NavigationHelper.cs",
-              "RelativeDocumentMoniker": "Helper\\NavigationHelper.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Helper\\NavigationHelper.cs",
-              "RelativeToolTip": "Helper\\NavigationHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T01:01:14.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CustomerDto.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\CustomerDto.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Model\\DTO\\CustomerDto.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\CustomerDto.cs",
-              "RelativeToolTip": "..\\Domaine\\Model\\DTO\\CustomerDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:45:51.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAAFkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:09:53.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "..\\DAL\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:41:32.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DestinationMenu.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Menu\\DestinationMenu.cs",
-              "RelativeDocumentMoniker": "Menu\\DestinationMenu.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Menu\\DestinationMenu.cs",
-              "RelativeToolTip": "Menu\\DestinationMenu.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCEAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:23:25.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\Booking.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Model\\Booking.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\Booking.cs",
-              "RelativeToolTip": "..\\Domaine\\Model\\Booking.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:35:53.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BookingDto.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\BookingDto.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Model\\DTO\\BookingDto.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\BookingDto.cs",
-              "RelativeToolTip": "..\\Domaine\\Model\\DTO\\BookingDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:20:35.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "DestinationService.cs",
               "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Services\\DestinationService.cs",
               "RelativeDocumentMoniker": "..\\Domaine\\Services\\DestinationService.cs",
               "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Services\\DestinationService.cs",
               "RelativeToolTip": "..\\Domaine\\Services\\DestinationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T21:23:49.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\Customer.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Model\\Customer.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\Customer.cs",
-              "RelativeToolTip": "..\\Domaine\\Model\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:51:54.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CustomerSeed.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Seeds\\CustomerSeed.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Seeds\\CustomerSeed.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Seeds\\CustomerSeed.cs",
-              "RelativeToolTip": "..\\DAL\\Seeds\\CustomerSeed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T20:46:16.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 9,
               "Title": "BookingConfig.cs",
               "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Configuration\\BookingConfig.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Configuration\\BookingConfig.cs",
               "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Configuration\\BookingConfig.cs",
               "RelativeToolTip": "..\\DAL\\Configuration\\BookingConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T21:58:03.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ActivityDto.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\ActivityDto.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Model\\DTO\\ActivityDto.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\ActivityDto.cs",
-              "RelativeToolTip": "..\\Domaine\\Model\\DTO\\ActivityDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\Booking.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Model\\Booking.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\Booking.cs",
+              "RelativeToolTip": "..\\Domaine\\Model\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:46:37.419Z",
+              "WhenOpened": "2025-11-24T13:35:53.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AgDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\AgDbContext.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\AgDbContext.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\AgDbContext.cs",
-              "RelativeToolTip": "..\\DAL\\AgDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ISetCustomerId.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IBooking\\ISetCustomerId.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IBooking\\ISetCustomerId.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IBooking\\ISetCustomerId.cs",
+              "RelativeToolTip": "..\\Domaine\\Interfaces\\IBooking\\ISetCustomerId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:41:07.696Z",
+              "WhenOpened": "2025-11-25T14:52:42.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Services\\BookingService.cs",
+              "RelativeToolTip": "..\\Domaine\\Services\\BookingService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:40:14.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IBookingRepository.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "..\\Domaine\\Interfaces\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:33:45.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\Domaine\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:58:33.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:41:32.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Services\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Services\\CustomerService.cs",
-              "RelativeToolTip": "..\\Domaine\\Services\\CustomerService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAewCQAAAAPAAAAAAAAAA==",
+              "Title": "20251124121617_UpdateDestinationConfigUniqueIndex.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251124121617_UpdateDestinationConfigUniqueIndex.Designer.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20251124121617_UpdateDestinationConfigUniqueIndex.Designer.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251124121617_UpdateDestinationConfigUniqueIndex.Designer.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20251124121617_UpdateDestinationConfigUniqueIndex.Designer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:39:40.882Z",
+              "WhenOpened": "2025-11-25T14:25:20.24Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20251119160500_Bookings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251119160500_Bookings.Designer.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20251119160500_Bookings.Designer.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251119160500_Bookings.Designer.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20251119160500_Bookings.Designer.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAAAMBAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:24:55.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DAL.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\obj\\Debug\\net8.0\\DAL.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\obj\\Debug\\net8.0\\DAL.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\obj\\Debug\\net8.0\\DAL.AssemblyInfo.cs",
+              "RelativeToolTip": "..\\DAL\\obj\\Debug\\net8.0\\DAL.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:22:09.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AgDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\AgDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\AgDbContext.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\AgDbContext.cs",
+              "RelativeToolTip": "..\\DAL\\AgDbContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:41:07.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251119160500_Bookings.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251119160500_Bookings.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20251119160500_Bookings.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251119160500_Bookings.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20251119160500_Bookings.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:35:08.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251125133008_changeForeignKeyOfActivityBooked.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251125133008_changeForeignKeyOfActivityBooked.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20251125133008_changeForeignKeyOfActivityBooked.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251125133008_changeForeignKeyOfActivityBooked.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20251125133008_changeForeignKeyOfActivityBooked.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:30:08.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ActivityBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Builder\\ActivityBuilder.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Builder\\ActivityBuilder.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Builder\\ActivityBuilder.cs",
+              "RelativeToolTip": "..\\Domaine\\Builder\\ActivityBuilder.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:35:19.377Z"
             },
             {
               "$type": "Document",
@@ -427,38 +508,347 @@
               "RelativeToolTip": "..\\Domaine\\Interfaces\\IDestinationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:38:25.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:38:25.897Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
+              "Title": "ActivityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Configuration\\ActivityConfig.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Configuration\\ActivityConfig.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Configuration\\ActivityConfig.cs",
+              "RelativeToolTip": "..\\DAL\\Configuration\\ActivityConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:21:51.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "ICustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\ICustomerRepository.cs",
               "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\ICustomerRepository.cs",
               "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\ICustomerRepository.cs",
               "RelativeToolTip": "..\\Domaine\\Interfaces\\ICustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:37:44.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:37:44.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
+              "Title": "IActivityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivityRepository.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IActivityRepository.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivityRepository.cs",
+              "RelativeToolTip": "..\\Domaine\\Interfaces\\IActivityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:38:21.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IActivityBuild.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivity\\IActivityBuild.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IActivity\\IActivityBuild.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivity\\IActivityBuild.cs",
+              "RelativeToolTip": "..\\Domaine\\Interfaces\\IActivity\\IActivityBuild.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T11:26:43.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IActivityDescription.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivity\\IActivityDescription.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IActivity\\IActivityDescription.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivity\\IActivityDescription.cs",
+              "RelativeToolTip": "..\\Domaine\\Interfaces\\IActivity\\IActivityDescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:52:02.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IActivityDestination.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivity\\IActivityDestination.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IActivity\\IActivityDestination.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivity\\IActivityDestination.cs",
+              "RelativeToolTip": "..\\Domaine\\Interfaces\\IActivity\\IActivityDestination.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:51:31.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IActivityPrice.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivity\\IActivityPrice.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IActivity\\IActivityPrice.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivity\\IActivityPrice.cs",
+              "RelativeToolTip": "..\\Domaine\\Interfaces\\IActivity\\IActivityPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:51:48.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IActivityTitle.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivity\\IActivityTitle.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IActivity\\IActivityTitle.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IActivity\\IActivityTitle.cs",
+              "RelativeToolTip": "..\\Domaine\\Interfaces\\IActivity\\IActivityTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:51:11.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "..\\DAL\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T08:22:38.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ActivityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Repositories\\ActivityRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\ActivityRepository.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Repositories\\ActivityRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\ActivityRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:39:18.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "Activity.cs",
               "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\Activity.cs",
               "RelativeDocumentMoniker": "..\\Domaine\\Model\\Activity.cs",
               "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\Activity.cs",
               "RelativeToolTip": "..\\Domaine\\Model\\Activity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T15:10:56.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T15:10:56.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
+              "Title": "ActivityDto.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\ActivityDto.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Model\\DTO\\ActivityDto.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\ActivityDto.cs",
+              "RelativeToolTip": "..\\Domaine\\Model\\DTO\\ActivityDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:46:37.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\Customer.cs",
+              "RelativeToolTip": "..\\Domaine\\Model\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:51:54.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20251119131122_CreationActivity_Class_Config_Seed1.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251119131122_CreationActivity_Class_Config_Seed1.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20251119131122_CreationActivity_Class_Config_Seed1.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251119131122_CreationActivity_Class_Config_Seed1.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20251119131122_CreationActivity_Class_Config_Seed1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:35:05.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20251119133817_AddRelationBTWActivityNDestination.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251119133817_AddRelationBTWActivityNDestination.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20251119133817_AddRelationBTWActivityNDestination.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251119133817_AddRelationBTWActivityNDestination.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20251119133817_AddRelationBTWActivityNDestination.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:34:56.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20251124121617_UpdateDestinationConfigUniqueIndex.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251124121617_UpdateDestinationConfigUniqueIndex.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20251124121617_UpdateDestinationConfigUniqueIndex.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251124121617_UpdateDestinationConfigUniqueIndex.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20251124121617_UpdateDestinationConfigUniqueIndex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:34:51.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CustomerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Configuration\\CustomerConfig.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Configuration\\CustomerConfig.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Configuration\\CustomerConfig.cs",
+              "RelativeToolTip": "..\\DAL\\Configuration\\CustomerConfig.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:19:36.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20251125122733_MakeCustomerNameUnique.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251125122733_MakeCustomerNameUnique.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20251125122733_MakeCustomerNameUnique.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Migrations\\20251125122733_MakeCustomerNameUnique.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20251125122733_MakeCustomerNameUnique.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:27:33.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Services\\CustomerService.cs",
+              "RelativeToolTip": "..\\Domaine\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:39:40.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Services\\ActivityService.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Services\\ActivityService.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Services\\ActivityService.cs",
+              "RelativeToolTip": "..\\Domaine\\Services\\ActivityService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:39:12.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DestinationConfig.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Configuration\\DestinationConfig.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Configuration\\DestinationConfig.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Configuration\\DestinationConfig.cs",
+              "RelativeToolTip": "..\\DAL\\Configuration\\DestinationConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T12:22:05.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ISetActivity.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IBooking\\ISetActivity.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IBooking\\ISetActivity.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IBooking\\ISetActivity.cs",
+              "RelativeToolTip": "..\\Domaine\\Interfaces\\IBooking\\ISetActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:53:01.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\BookingDto.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Model\\DTO\\BookingDto.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\BookingDto.cs",
+              "RelativeToolTip": "..\\Domaine\\Model\\DTO\\BookingDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:20:35.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IWithAnotherActivity.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IBooking\\IWithAnotherActivity.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IBooking\\IWithAnotherActivity.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IBooking\\IWithAnotherActivity.cs",
+              "RelativeToolTip": "..\\Domaine\\Interfaces\\IBooking\\IWithAnotherActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T14:21:36.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "NavigationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Helper\\NavigationHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\NavigationHelper.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\AppAgency\\Helper\\NavigationHelper.cs",
+              "RelativeToolTip": "Helper\\NavigationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:01:14.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DestinationDto.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\DestinationDto.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Model\\DTO\\DestinationDto.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\DestinationDto.cs",
+              "RelativeToolTip": "..\\Domaine\\Model\\DTO\\DestinationDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:38:38.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "..\\Domaine\\Model\\DTO\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Model\\DTO\\CustomerDto.cs",
+              "RelativeToolTip": "..\\Domaine\\Model\\DTO\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:45:51.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CustomerSeed.cs",
+              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Seeds\\CustomerSeed.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Seeds\\CustomerSeed.cs",
+              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\DAL\\Seeds\\CustomerSeed.cs",
+              "RelativeToolTip": "..\\DAL\\Seeds\\CustomerSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T20:46:16.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "IBuildBooking.cs",
               "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IBooking\\IBuildBooking.cs",
               "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IBooking\\IBuildBooking.cs",
@@ -466,60 +856,7 @@
               "RelativeToolTip": "..\\Domaine\\Interfaces\\IBooking\\IBuildBooking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:39:48.096Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IWithAnotherActivity.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IBooking\\IWithAnotherActivity.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IBooking\\IWithAnotherActivity.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IBooking\\IWithAnotherActivity.cs",
-              "RelativeToolTip": "..\\Domaine\\Interfaces\\IBooking\\IWithAnotherActivity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:21:36.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ISetActivity.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IBooking\\ISetActivity.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Interfaces\\IBooking\\ISetActivity.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Interfaces\\IBooking\\ISetActivity.cs",
-              "RelativeToolTip": "..\\Domaine\\Interfaces\\IBooking\\ISetActivity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:53:01.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ActivityBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Builder\\ActivityBuilder.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Builder\\ActivityBuilder.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Builder\\ActivityBuilder.cs",
-              "RelativeToolTip": "..\\Domaine\\Builder\\ActivityBuilder.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAewCgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:35:19.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "BookingBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Builder\\BookingBuilder.cs",
-              "RelativeDocumentMoniker": "..\\Domaine\\Builder\\BookingBuilder.cs",
-              "ToolTip": "C:\\Users\\e.markus\\source\\repos\\EF\\EF-EXO_Agency\\Domaine\\Builder\\BookingBuilder.cs",
-              "RelativeToolTip": "..\\Domaine\\Builder\\BookingBuilder.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T13:33:31.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T14:39:48.096Z"
             }
           ]
         }

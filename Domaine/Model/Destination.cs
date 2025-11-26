@@ -8,6 +8,7 @@ namespace Domaine.Model
 {
     public class Destination
     {
+        
 
         public int Id { get; set; }
         public required string Country { get; set; }
@@ -16,8 +17,7 @@ namespace Domaine.Model
 
         public ICollection<Activity> Activities { get; set; } = new List<Activity>();
 
-
-    
+        
     }
 
 

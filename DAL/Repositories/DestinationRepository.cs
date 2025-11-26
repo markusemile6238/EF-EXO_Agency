@@ -35,7 +35,6 @@ namespace DAL.Repositories
                 }
 
                     var result =  await _context.Destinations.ToListAsync();
-                    Console.WriteLine($"Nombre de destinations récupérées: {result?.Count ?? 0}");
                     return result ?? new List<Destination>();
 
             }

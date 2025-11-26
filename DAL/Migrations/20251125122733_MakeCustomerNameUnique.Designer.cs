@@ -4,6 +4,7 @@ using DAL;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DAL.Migrations
 {
     [DbContext(typeof(AgDbContext))]
-    partial class AgDbContextModelSnapshot : ModelSnapshot
+    [Migration("20251125122733_MakeCustomerNameUnique")]
+    partial class MakeCustomerNameUnique
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -24,13 +27,13 @@ namespace DAL.Migrations
 
             modelBuilder.Entity("ActivityBooked", b =>
                 {
-                    b.Property<int>("BookingId")
+                    b.Property<int>("BookId")
                         .HasColumnType("int");
 
                     b.Property<int>("ActivityId")
                         .HasColumnType("int");
 
-                    b.HasKey("BookingId", "ActivityId");
+                    b.HasKey("BookId", "ActivityId");
 
                     b.HasIndex("ActivityId");
 
@@ -39,17 +42,17 @@ namespace DAL.Migrations
                     b.HasData(
                         new
                         {
-                            BookingId = 1,
+                            BookId = 1,
                             ActivityId = 1
                         },
                         new
                         {
-                            BookingId = 1,
+                            BookId = 1,
                             ActivityId = 2
                         },
                         new
                         {
-                            BookingId = 2,
+                            BookId = 2,
                             ActivityId = 3
                         });
                 });
@@ -259,7 +262,7 @@ namespace DAL.Migrations
 
                     b.HasOne("Domaine.Model.Booking", null)
                         .WithMany()
-                        .HasForeignKey("BookingId")
+                        .HasForeignKey("BookId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

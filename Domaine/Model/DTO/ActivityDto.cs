@@ -8,6 +8,8 @@
         public decimal? Price { get; set; }
         public int? DestinationId { get; set; }
 
+        public ActivityDto() { }
+
         public ActivityDto(string title, string description, decimal? price, int? destinationId)
         {
             Title = title;

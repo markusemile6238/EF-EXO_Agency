@@ -12,8 +12,8 @@ namespace Domaine.Builder
         IActivityBuild
     {
 
-        public string Title { get; private set; }
-        public string Description { get; private set; }
+        public string Title { get; private set; } = string.Empty;
+        public string Description { get; private set; } = string.Empty;
         public int DestinationId { get; private set; }
         public decimal Price { get; private set; }
 
@@ -38,7 +38,7 @@ namespace Domaine.Builder
   
         public IActivityDescription SetPrice(decimal price)
         {
-            price = price;
+            Price = price;
             return this;
         }
 

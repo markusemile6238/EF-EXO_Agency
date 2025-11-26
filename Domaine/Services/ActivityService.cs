@@ -32,11 +32,17 @@ namespace Domaine.Services
 
         public async Task AddAsync(ActivityDto activityDto)
         {
+            if (activityDto.Price == null)
+                throw new ArgumentNullException(nameof(activityDto.Price), "Le prix est obligatoire");
+
+            if (activityDto.DestinationId == null)
+                throw new ArgumentNullException(nameof(activityDto.DestinationId), "L'ID de destination est obligatoire");
+
             Activity newActivity = new Activity(            
-                title:activityDto.Title,
-                description:activityDto.Description,
-                price:(decimal) activityDto.Price,
-                destinationId:(int) activityDto.DestinationId
+                title:activityDto.Title ?? string.Empty,
+                description:activityDto.Description ?? string.Empty,
+                price: activityDto.Price.Value,
+                destinationId: activityDto.DestinationId.Value
            );
 
             await _iactivityRepository.AddAsync(newActivity);

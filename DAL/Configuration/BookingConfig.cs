@@ -1,11 +1,6 @@
 ﻿using Domaine.Model;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DAL.Configuration
 {
@@ -40,9 +35,9 @@ namespace DAL.Configuration
                              .HasPrincipalKey(nameof(Activity.Id)),
                      right => right.HasOne(typeof(Booking))
                              .WithMany()
-                             .HasForeignKey("BookId")
+                             .HasForeignKey("BookingId")
                              .HasPrincipalKey(nameof(Booking.Id)), 
-                     join => join.HasKey("BookId","ActivityId"));
+                     join => join.HasKey("BookingId","ActivityId"));
 
           
            
